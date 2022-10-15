@@ -9,7 +9,6 @@
 </p>
 
 ### Now
-- :office: Data analyst at Decathlon El Djazair
 - :rocket: Creator and maintainer of [WaterRocket](https://github.com/MohamedNennouche/Water-rocket-launch-simulator)
 - :fire: Interested in web scraping and data science
 - :calendar: Looking for contributing to python based open source projects and Machine Learning and Deep Learning competitions
@@ -21,7 +20,7 @@
 - 💬 Ping me about **Python**, **Web scraping**, **Machine Learning**, **Deep Learning**, **Computer Vision**
 - 📫 Reach me: [linkedin.com/mohamed-nennouche/](https://www.linkedin.com/in/mohamed-nennouche/)
 - :email: Send me an email to moohaameed.nennouche@gmail.com
-- 📝 Checkout my [Resume](files/cv.pdf).
+- 📝 Checkout my [Resume](./files/cv.pdf).
 
 ### My current stack
 <img height="48" src="img/python.svg" alt="python"> <img height="48" src="img/postgresql.svg" alt="postgresql"> <img height="48" src="img/Linux.svg" alt="Linux"> <img height="48" src="img/aws.svg" alt="AWS"> <img height="48" src="img/amazon-s3.svg" alt="Amazon S3"> <img height="48" src="img/aws-redshift.svg" alt="Amazon Redshift"> <img height="48" src="img/Git.svg" alt="Git">
@@ -44,9 +43,10 @@ Coming soon
 ### Connect with me
 <div id="social-media" style="text-align:left">
     <a href="https://www.linkedin.com/in/mohamed-nennouche/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
     </a>
     <a href="https://www.facebook.com/mohamed.nennouche.1">
-        <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+        <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
+    <a href="mailto:moohaameed.nennouche@gmail.com"> <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
