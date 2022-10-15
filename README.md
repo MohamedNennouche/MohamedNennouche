@@ -25,6 +25,9 @@
 ### My current stack
 <img height="48" src="img/python.svg" alt="python"> <img height="48" src="img/postgresql.svg" alt="postgresql"> <img height="48" src="img/Linux.svg" alt="Linux"> <img height="48" src="img/aws.svg" alt="AWS"> <img height="48" src="img/amazon-s3.svg" alt="Amazon S3"> <img height="48" src="img/aws-redshift.svg" alt="Amazon Redshift"> <img height="48" src="img/Git.svg" alt="Git">
 
+### Data visualization tools used
+<img height="48" src="img/google-data-studio.svg" alt="Google Data Studio"> <img height="48" src="img/amazon-quicksight.svg" alt="Amazon Quicksight"> <img height="48" src="img/Power_BI.svg" alt="Power BI">
+
 ### Python libraries mastered
 <img height="48" src="img/pandas.svg" alt="Pandas"> <img height="48" src="img/numpy.svg" alt="Numpy"> <img height="48" src="img/Matplotlib.svg" alt="Matplotlib"> <img height="48" src="img/seaborn.svg" alt="Seaborn"> <img height="48" src="img/Scikitlearn.svg" alt="Scikitlearn"> <img height="48" src="img/keras.svg" alt="Keras"> <img height="48" src="img/tensorflow.svg" alt="Tensorflow"> <img height="48" src="img/OpenCV.svg" alt="OpenCV"> <img height="48" src="img/selenium.svg" alt="Selenium"> 
 
