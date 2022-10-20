@@ -6,6 +6,9 @@
   <a href="https://github.com/sudiptob2/">
     <img src="https://komarev.com/ghpvc/?username=MohamedNennouche" alt="visitors" />
   </a>
+  <a href="https://wakatime.com/@1dace552-f52d-4c2c-913e-eacfe1d41572">
+    <img src="https://wakatime.com/badge/user/1dace552-f52d-4c2c-913e-eacfe1d41572.svg" alt="wakatime activities" />
+  </a> 
 </p>
 
 ### Now
@@ -37,8 +40,13 @@
 ### Development Stuffs
 #### ⚡ Github Stats
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedNennouche&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedNennouche&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedNennouche&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedNennouche&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
 </p>
+
+
+#### :watch: Wakatime Stats
+
+[![Mohamed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedNennouche)](https://wakatime.com/@1dace552-f52d-4c2c-913e-eacfe1d41572)
 
 #### :chart_with_upwards_trend: Competitions
 Coming soon
