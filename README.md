@@ -43,6 +43,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedNennouche&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedNennouche&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
 </p>
 
+#### :eyes: Github Recent activity
+<a href="https://github.com/MohamedNennouche"><img alt="Mohamed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MohamedNennouche&custom_title=Mohamed's%20Contribution%20Graph&theme=react" /></a>
 
 #### :watch: Wakatime Stats
 
