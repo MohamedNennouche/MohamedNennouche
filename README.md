@@ -38,10 +38,26 @@
 <img height="48" src="img/vscode.svg" alt="vscode"> <img height="48" src="img/DBeaver.svg" alt="DBeaver"> <img height="48" src="img/datagrip.svg" alt="datagrip"> <img height="48" src="img/s3browser.png" alt="s3 browser"> <img height="48" src="img/postman.svg" alt="postman"> <img height="48" src="img/colab.svg" alt="Google colab"> <img height="48" src="img/Gradient.png" alt="Paperspace Gradient"> <img height="48" src="img/notion.svg" alt="Notion">
 
 ### Development Stuffs
+
+#### :trophy: Github Profile trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedNennouche&theme=onedark)](https://github.com/MohamedNennouche/github-profile-trophy)
 #### ⚡ Github Stats
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedNennouche&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedNennouche&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
-</p>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MohamedNennouche&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" alt="Mohamed Nennouche's GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedNennouche&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=MohamedNennouche&theme=tokyonight&hide_border=true" alt="Mohamed Nennouche's GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
+</table>
 
 #### :eyes: Github Recent activity
 <a href="https://github.com/MohamedNennouche"><img alt="Mohamed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MohamedNennouche&custom_title=Mohamed's%20Contribution%20Graph&theme=react" /></a>
