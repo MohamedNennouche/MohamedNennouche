@@ -40,7 +40,12 @@
 ### Development Stuffs
 
 #### :trophy: Github Profile trophy
+<div align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohamedNennouche&theme=onedark)](https://github.com/MohamedNennouche/github-profile-trophy)
+
+</div>
+
 #### ⚡ Github Stats
 
 <table>
