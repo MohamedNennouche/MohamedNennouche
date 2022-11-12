@@ -1,0 +1,213 @@
+%------------------------
+% Resume Template
+% Author : Mohamed Nennouche
+% Github : https://github.com/MohamedNennouche
+% License : MIT
+%------------------------
+
+\documentclass[a4paper,20pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\LARGE Mohamed Nennouche}} & Email: \href{mailto:}{mohamed.nennouche@g.enp.edu.dz}\\
+  \href{https://www.linkedin.com/in/mohamed-nennouche/}{Linkedin: mohamed-nennouche} & Mobile:~~~+213-540-059-095 \\
+  \href{https://github.com/MohamedNennouche/MohamedNennouche}{Github: ~~github.com/MohamedNennouche} \\
+\end{tabular*}
+
+%-----------EDUCATION-----------------
+\section{~~Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Ecole Nationale Polytechnique}{Algiers, Algeria}
+      {Engineering degree - Electronics;  17.5/20}{September 2017 - July 2022}
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Courses:} Analog and digital electronics, embedded systems, embedded computing (C-C++), telecomunication, advanced signal processing, image processing, machine learning}}}
+    \resumeSubheading
+      {Ecole Nationale Polytechnique}{Algiers, Algeria}
+      {Master's degree - Signal and Telecomunication;  17/20}{Septembre 2017 - July 2022}
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Courses:} Telecommunication, antenna, antenna processing, Machine Learning, embedded computing, machine learning}}}
+    \resumeSubHeadingListEnd
+	    
+\vspace{-5pt}
+\section{Skills Summary}
+	\resumeSubHeadingListStart
+	\resumeSubItem{Languages}{~~~~~~Python, C, C++, SQL, Bash, HTML5, CSS3, VHDL, Octave, Latex}
+	\resumeSubItem{Frameworks}{~~~~Scikit-learn, TensorFlow, Keras, PyQT5, Arduino, Mbed}
+    \resumeSubItem{Libraries}{~~~~~~~~~Pandas, GeoPandas, Numpy, Matplotlib, Seaborn, OpenCV, Selenium, BeautifulSoup, Scrapy, Requests}
+	\resumeSubItem{Tools}{~~~~~~~~~~~~~~GIT, PostgreSQL, MySQL, SQLite, Office suite, Google Data Studio, Quicksight, Power BI}
+	\resumeSubItem{Platforms}{~~~~~~~Linux, Windows, Arduino, Raspberry, AWS, GCP}
+	\resumeSubItem{Soft Skills}{~~~~~~~Leadership, Event Management, Writing, Public Speaking, Time Management}
+
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+\section{Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading{Decathlon El Djazair}{On site}
+    {Data Analyst (Full-time)}{July 2022 - Present}
+    \resumeItemListStart
+        \resumeItem{Role}
+          {My role in the company is to lead the data team and to carry out the company's projects. This includes using the different data sources of Decathlon El Djazair (database, API, sheets...) and extracting analysis and dashboards to make business decisions.}
+          \resumeItem{Technologies and tools}
+          {Python, SQL, PostgreSQL, AWS S3, AWS Redshift, AWS Quicksight, GCP, Google Data Studio, Excel}
+      \resumeItemListEnd
+    \resumeSubheading
+		{Paris-Saclay university}{On site}
+		{Intern (Full-time internship)}{Sep 2021 -  Nov 2022}
+		\resumeItemListStart
+        \resumeItem{Role}
+          {In this internship, I was in charge of realizing a fully instrumented water rocket through the study and the realization, all under Mbed environment}
+        \resumeItem{Technologies and tools}{C, C++, Mbed}
+		\resumeItemListEnd
+%\vspace{-5pt}
+    \resumeSubheading
+		{3/4 School}{Remote}
+		{Organic chemistry teacher (Part-time)}{Sep 2019 -  July 2021}
+		\resumeItemListStart
+        \resumeItem{Role}
+          {I was in charge of the organic chemistry module at the Ecole 3/4 for the preparation of students in their second year of preparatory classes for the national competitive entrance exam to engineering schools.}
+        \resumeItem{Impact}{Course has been taken by 250+ students so far with 100\% of success in the final exam.}
+		\resumeItemListEnd
+  \resumeSubheading
+		{Bomare Company}{On site}
+		{Engineers intern (Full time internship)}{Mars 2021 -  April 2021 and July 2021 -  Sep 2021}
+		\resumeItemListStart
+        \resumeItem{Role}
+          {I had the chance to do 2 internships at Bomare Company in the industrial projects department, the first internship was a discovery internship of the company, the second was a more concrete internship participating directly in the department's projects in the realization of an embedded systems project}
+        \resumeItem{Technologies and tools}{C, C++, Arduino, ESP32}
+		\resumeItemListEnd
+  \resumeSubheading
+		{ENNA}{On site}
+		{Intern (Full-time internship)}{Dec 2019 - Jan 2020}
+		\resumeItemListStart
+        \resumeItem{Role}
+          {I had the opportunity to do my internship in the technical department of the national air navigation establishment, having had a certain contribution on the field of signal processing and radar as well as the various radio transmissions. signal processing and radar as well as the different radio transmissions.}
+		\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------------
+\vspace{-5pt}
+\section{Projects}
+\resumeSubHeadingListStart
+\resumeSubItem{WaterRocket (Python package, Data visualisation, Aerodynamic simulation, PDF generation)}{(Work in progress) This project is a Python package that allows to simulate the flight of a water rocket taking into account a number of physical and structural parameters of the rocket. This package allows to have a good number of visualization and to generate a PDF report of the flight. Tech: Python, Numpy, Pandas, Matplotlib, Reportlab.}
+\vspace{2pt}
+\resumeSubItem{Social Scraper (Python, web scraping)}{(Work in progress) Project of realization of a Python package allowing the scraping of data from various social networks (Facebook, Instagram, Linkedin, Twitter...). Tech: Python, BeautifulSoup, Selenium, Requests}
+\vspace{2pt}
+\resumeSubItem{Alzheimer disease stages detection and classification (Image Processing, Deep Learning, Biomedical Imaging)}{This project consists in the realization of a Deep Learning model allowing the classification between MRI images of Alzheimer's disease patients and healthy patients, and the classification of the different stages of the disease for the affected persons. This project implements a fusion of features in a HoG and a neural network followed by a KNN as a classifier and obtaining excellent results (about 98\% accuracy). Tech: Python, Tensorflow, Keras, Scikit-learn, OpenCV}
+\vspace{2pt}
+\resumeSubItem{COPD detection (Machine Learning, Deep Learning, Signal Processing)}{The project consists of detecting patients with Chronic Obstructive Pulmonary Disease based on data from gas sensors placed on patients' masks using several CNN architectures. Tech: Python, Scikit-learn, Tensorflow, Keras, Scipy}
+\vspace{2pt}
+\resumeSubItem{Connected hives network (Web Development, Embedded systems, Internet of things)}{Project consisting in the realization of a network of connected hives, each hive contained a system of sensors allowing the feedback of environmental data and specific to the hive (proportion of CO2, temperature, humidity ...) all connected to a Raspberry Pi and allowing the visualization in the form of a dashboard on the internet of the information of the hives. Tech: C++, Arduino, ESP32, Raspberry Pi, MQTT}
+\resumeSubHeadingListEnd
+%\vspace{-5pt}
+%\section{Publications}
+%\resumeSubHeadingListStart
+%\resumeSubItem{Book: Deep Learning on Web (Web Development, Deep Learning)}{Work in Progress book to be published by Packt Publishing in late 2019. Tech: Django, Python, AWS, GCP, Azure (November '18)}
+%\vspace{2pt}
+%\resumeSubItem{Book: Deep Learning on Mobile Devices (Flutter App Development, Deep Learning)}{Work in Progress book to be published by Packt Publishing in late 2019. Tech: Flutter, Android, Firebase, TensorFlow, Python, Dart (December '18)}
+%\resumeSubHeadingListEnd
+\vspace{-5pt}
+%-----------Awards-----------------
+\section{Honors and Awards}
+\begin{description}[font=$\bullet$]
+\item {Business Challenge winner - Avril, 2021}
+\vspace{-5pt}
+\item {Injaz El Djazair Finalist - April, 2020}
+\vspace{-5pt}
+\item {5th in the national ranking of the entrance exam to engineering schools - September, 2019}
+
+\end{description}
+
+\vspace{-5pt}
+\section{Volunteer Experience}
+  \resumeSubHeadingListStart
+	\resumeSubheading
+    {Vision \& Innovation Club}{Algiers, Algeria}
+    {Conducted 3 days online introduction to Python for Machine Learning training.}{Sep 2022}
+\vspace{5pt}
+    % \vspace{10pt}\textbf{\large{Community Experience}}
+    \resumeSubheading
+    {Vision \& Innovation Club}{Algiers, Algeria}
+    {Manager of the club's finance, logistics and external relations department.}{Dec 2020 - Dec 2021}
+\vspace{5pt}
+\resumeSubheading
+    {Vision \& Innovation Club}{Algiers, Algeria}
+    {Head of the E-lab, mechatronics laboratory of the club within the Electronics department.}{Sep 2020 - Nov 2021}
+\vspace{5pt}
+\resumeSubheading
+    {Vision \& Innovation Club}{Algiers, Algeria}
+    {Member of the club's finance, logistics and external relations department.}{Nov 2019 - Dec 2020}
+
+\resumeSubHeadingListEnd
+
+\end{document}
