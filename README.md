@@ -1,4 +1,4 @@
-## Hi 👋, I'm a data analyst working in Algiers, Algeria
+## Hi 👋, I'm a PhD student at the Fresnel Institute at the Ecole Centrale de Marseille
 <p align="left">
   <a href="https://github.com/sudiptob2?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MohamedNennouche?color=green&logo=github">
@@ -13,14 +13,14 @@
 
 ### Now
 - :rocket: Creator and maintainer of [WaterRocket](https://github.com/MohamedNennouche/Water-rocket-launch-simulator)
-- :fire: Interested in web scraping and data science
+- :fire: Interested in web scraping, data science and deep learning
 - :calendar: Looking for contributing to python based open source projects and Machine Learning and Deep Learning competitions
 
 ### Bio
-- 🏢 I'm currently working at **Decathlon El Djazair** as Data Analyst
+- 🏢 I'm currently PhD Student at **Fresnel Institute at the Ecole Centrale de Marseille**
 - ⚙️ I use daily: `.py`, `.sql`, `.ipynb`, `.json`
 - 🌱 Learning all about **Data science** and **Machine Learning**
-- 💬 Ping me about **Python**, **Web scraping**, **Machine Learning**, **Deep Learning**, **Computer Vision**
+- 💬 Ping me about **Python**, **Web scraping**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **Signal processing**
 - 📫 Reach me: [linkedin.com/mohamed-nennouche/](https://www.linkedin.com/in/mohamed-nennouche/)
 - :email: Send me an email to moohaameed.nennouche@gmail.com
 - 📝 Checkout my [Resume](./files/cv.pdf).
