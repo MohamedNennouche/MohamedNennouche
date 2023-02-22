@@ -64,9 +64,6 @@
   </tr>
 </table>
 
-#### :eyes: Github Recent activity
-<a href="https://github.com/MohamedNennouche"><img alt="Mohamed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MohamedNennouche&custom_title=Mohamed's%20Contribution%20Graph&theme=react" /></a>
-
 #### :watch: Wakatime Stats
 
 [![Mohamed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedNennouche)](https://wakatime.com/@1dace552-f52d-4c2c-913e-eacfe1d41572)
