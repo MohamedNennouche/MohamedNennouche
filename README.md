@@ -1,4 +1,4 @@
-## Hi 👋, I'm a PhD student at the Fresnel Institute at the Ecole Centrale de Marseille
+## Hi 👋, I'm a PhD student at the LIS Lab at the Ecole Centrale de Marseille
 <p align="left">
   <a href="https://github.com/sudiptob2?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MohamedNennouche?color=green&logo=github">
@@ -17,7 +17,7 @@
 - :calendar: Looking for contributing to python based open source projects and Machine Learning and Deep Learning competitions
 
 ### Bio
-- 🏢 I'm currently PhD Student at **Fresnel Institute at the Ecole Centrale de Marseille**
+- 🏢 I'm currently PhD Student at **Laboratoire d'Informatique & Systèmes at the Ecole Centrale de Marseille**
 - ⚙️ I use daily: `.py`, `.sql`, `.ipynb`, `.json`
 - 🌱 Learning all about **Data science** and **Machine Learning**
 - 💬 Ping me about **Python**, **Web scraping**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **Signal processing**
