@@ -68,6 +68,8 @@
 
 [![Mohamed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedNennouche)](https://wakatime.com/@1dace552-f52d-4c2c-913e-eacfe1d41572)
 
+<figure><embed src="https://wakatime.com/share/@MohamedNennouche/931c6fd2-3f66-4b95-99b1-95e6910d15da.svg"></embed></figure>
+
 #### :chart_with_upwards_trend: Competitions
 Coming soon
 
