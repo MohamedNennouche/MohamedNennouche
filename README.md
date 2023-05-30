@@ -1,9 +1,9 @@
 ## Hi 👋, I'm a PhD student at the LIS Lab at the Ecole Centrale Méditerranée and Co-director of Prep'Up School
 <p align="left">
-  <a href="https://github.com/sudiptob2?tab=followers">
+  <a href="https://github.com/MohamedNennouche?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MohamedNennouche?color=green&logo=github">
   </a>
-  <a href="https://github.com/sudiptob2/">
+  <a href="https://github.com/MohamedNennouche/">
     <img src="https://komarev.com/ghpvc/?username=MohamedNennouche" alt="visitors" />
   </a>
   <a href="https://wakatime.com/@1dace552-f52d-4c2c-913e-eacfe1d41572">
