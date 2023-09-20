@@ -1,4 +1,4 @@
-## Hi 👋, I'm a PhD student at the LIS Lab at the Ecole Centrale Méditerranée and Co-director of Prep'Up School
+## Hi 👋, I'm a PhD student at the LIS Lab at the Ecole Centrale Méditerranée
 <p align="left">
   <a href="https://github.com/MohamedNennouche?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MohamedNennouche?color=green&logo=github">
@@ -13,14 +13,15 @@
 
 ### Now
 - :rocket: Creator and maintainer of [WaterRocket](https://github.com/MohamedNennouche/Water-rocket-launch-simulator)
+- :mag: Doctoral student on Underwater Wireless Optical Communication and Deep Learning in Signal Processing field
 - :fire: Interested in web scraping, data science and deep learning
 - :calendar: Looking for contributing to python based open source projects and Machine Learning and Deep Learning competitions
 
 ### Bio
-- 🏢 I'm currently PhD Student at **Laboratoire d'Informatique & Systèmes at the Ecole Centrale de Marseille** and the Co-director of **Prep'Up School**
-- ⚙️ I use daily: `.py`, `.sql`, `.ipynb`, `.json` , `.c` and `.cpp`
+- 🏢 I'm currently PhD Student at **Laboratoire d'Informatique & Systèmes at the Ecole Centrale de Marseille**
+- ⚙️ I use daily: `.py`, `.sql`, `.ipynb`, `.json`,  `.md`, `.c` and `.cpp`
 - 🌱 Learning all about **Data science** and **Machine Learning**
-- 💬 Ping me about **Python**, **Web scraping**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **Signal processing**
+- 💬 Ping me about **Python**, **Web scraping**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **Signal processing**, **Optics**
 - 📫 Reach me: [linkedin.com/mohamed-nennouche/](https://www.linkedin.com/in/mohamed-nennouche/)
 - :email: Send me an email to moohaameed.nennouche@gmail.com
 - 📝 Checkout my [Resume](./files/cv.pdf).
