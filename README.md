@@ -13,13 +13,13 @@
 
 ### Now
 - :rocket: Creator and maintainer of [WaterRocket](https://github.com/MohamedNennouche/Water-rocket-launch-simulator)
-- :mag: Doctoral student on Underwater Wireless Optical Communication and Deep Learning in Signal Processing field
-- :fire: Interested in web scraping, data science and deep learning
+- :mag: PhD student on Underwater Wireless Optical Communication and Deep Learning in Signal Processing field
+- :fire: Interested in the use of Machine Learning and Deep Learning in wireless communications
 - :calendar: Looking for contributing to python based open source projects and Machine Learning and Deep Learning competitions
 
 ### Bio
-- 🏢 I'm currently PhD Student at **Laboratoire d'Informatique & Systèmes at the Ecole Centrale de Marseille**
-- ⚙️ I use daily: `.py`, `.sql`, `.ipynb`, `.json`,  `.md`, `.c` and `.cpp`
+- 🏢 I'm currently PhD Student at **Laboratoire d'Informatique & Systèmes at Centrale Méditerranée**
+- ⚙️ I use daily: `.py`, `.sql`, `.ipynb`, `.json`,  `.md`, `.c`, `.cpp` and `.js`
 - 🌱 Learning all about **Data science** and **Machine Learning**
 - 💬 Ping me about **Python**, **Web scraping**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **Signal processing**, **Optics**
 - 📫 Reach me: [linkedin.com/mohamed-nennouche/](https://www.linkedin.com/in/mohamed-nennouche/)
@@ -64,13 +64,6 @@
     </td>
   </tr>
 </table>
-
-#### :watch: Wakatime Stats
-
-[![Mohamed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedNennouche)](https://wakatime.com/@1dace552-f52d-4c2c-913e-eacfe1d41572)
-
-
-<figure><embed src="https://wakatime.com/share/@MohamedNennouche/931c6fd2-3f66-4b95-99b1-95e6910d15da.svg"></embed></figure>
 
 #### :chart_with_upwards_trend: Competitions
 Coming soon
