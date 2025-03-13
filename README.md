@@ -64,6 +64,7 @@
   </tr>
 </table>
 
+
 #### :chart_with_upwards_trend: Competitions
 Coming soon
 
